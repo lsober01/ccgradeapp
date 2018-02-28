@@ -1,0 +1,12 @@
+body { font: normal 16px Helvetica, Verdana; color: #333; }
+h1 { font-family: "Poster"; }
+p { font-weight: bold; }
+.directions { display: block; margin-bottom: 12px; font-size: 70%; }
+.wrapper { width: 40%; min-width: 200px; background: pink; text-align: center; padding: 15px; margin: 0 auto; box-shadow: 0 1px 1px rgba(49, 34, 34, 0.15), 0 10px 0 -5px #fa9e9e, 0 10px 1px -4px rgba(0,0,0,0.15), 0 20px 0 -10px rgb(231, 114, 114), 0 20px 1px -9px rgba(0,0,0,0.15); }
+#grades, #avg_grades { font: oblique 17px "Verdana"; }
+#final_grade { font: bold 68px Helvetica; }
+.purple { color: purple; }
+.gray { color: gray; }
+.blue { color: blue; }
+.orange { color: orange; }
+.red { color: red; }
